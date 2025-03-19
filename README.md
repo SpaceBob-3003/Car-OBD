@@ -12,7 +12,7 @@ Ce projet réalisé en première année de master est un projet permettant de r�
 
 # Description des Programmes :
 - gui.py : Ce programme contient l'entièreté de l'interface graphique ainsi que le programme principal qui permet de faire fonctionner le projet.
-- obd.py : Ce programme est la bibliothèque qui a été conçue avec python-can afin de récupérer et convertir les données reçues dde la voiture pour qu'elles soient utilisables dans l'interface graphique du programme gui.py.
+- obd.py : Ce programme est la bibliothèque qui a été conçue à l'aide python-can afin de récupérer et convertir les données reçues dde la voiture pour qu'elles soient utilisables dans l'interface graphique du programme gui.py.
 - pid_supportes.py : Ce programme permet d'obtenir la liste des identifiants supportés par le véhicule.
 
 # Identifiants utilisés pour le projet :
